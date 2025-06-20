@@ -143,7 +143,4 @@ Thank you for reviewing my submission!
 
 ```
 
----
 
-If you want, I can also help prepare the `requirements.txt` file or demo video script! Would you like that?
-```
